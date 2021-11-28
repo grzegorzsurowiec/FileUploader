@@ -10,7 +10,7 @@ namespace FileUploader
 {
     class Program
     {
-        private const string ftpServerName = "_PUT_NAME_HERE_"";
+        private const string ftpServerName = "_PUT_NAME_HERE_";
         private const string ftpUserName = "_PUT_USERNAME_HERE_";
         private const string ftpUserPassword = "_PUT_PASSWORD_HERE_";
 
